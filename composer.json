@@ -1,0 +1,12 @@
+{
+    "name": "luciditysoftware/module-root",
+    "authors": [{
+        "name": "Tristan Kenney",
+        "email": "tristan@kenney.co"
+    }],
+    "require": {
+        "luciditysoftware/module-a": "~1.0.0",
+        "luciditysoftware/module-b": "~1.0.0"
+    },
+    "minimum-stability": "dev"
+}
